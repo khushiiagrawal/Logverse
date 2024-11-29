@@ -47,4 +47,10 @@ This will start the server, powering **Logverse** to life!
 - **Frontend**: React.js, Tailwind CSS  
 - **Backend**: Node.js, Express.js, MongoDB.
 
+
+
+https://github.com/user-attachments/assets/880c14fc-62a9-454f-b918-e68f45c12b51
+
+
+
 **Contributions and Feedback** are welcome! 
