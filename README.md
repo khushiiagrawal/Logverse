@@ -18,7 +18,6 @@ cd logverse
 Navigate to the `frontend` folder and set up the client-side:  
 ```bash  
 cd frontend
-nvm use 18
 npm install  
 npm run dev
 
@@ -29,7 +28,6 @@ This will spin up the frontend development server.
 Navigate to the `server` folder to set up the backend:  
 ```bash  
 cd server
-nvm use 18
 npm install  
 npm start  
 ```  
