@@ -6,14 +6,19 @@ import { nanoid } from 'nanoid';
 import jwt from 'jsonwebtoken';
 import cors from 'cors';
 import admin from "firebase-admin";
-import fs from "fs";
-
 dotenv.config();
 
+import fs from "fs";
+
+const serviceAccountKeyPath = "/Users/khushiagrawal/Desktop/Logverse/server/logverse-blogging-firebase-adminsdk-1klup-7f8e6435c5.json";
 
 const serviceAccountKey = JSON.parse(
-  fs.readFileSync("/Users/khushiagrawal/Desktop/logverse-blog/server/logverse-blogging-firebase-adminsdk-1klup-573687ac23.json", "utf-8")
+  fs.readFileSync(serviceAccountKeyPath, "utf-8")
 );
+
+console.log("Service account key loaded successfully.");
+
+
 
 import { getAuth } from "firebase-admin/auth";
 import aws from "aws-sdk";
