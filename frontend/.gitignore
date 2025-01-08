@@ -26,4 +26,4 @@ dist-ssr
 .env
 node_modules
 package-lock.json
-package.json
+package.json.env
