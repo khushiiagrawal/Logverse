@@ -3,3 +3,4 @@ node_modules
 requests.rest
 package-lock.json
 package.json
+.env
