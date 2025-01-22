@@ -1,7 +1,6 @@
 #  Logverse - Dive into the World of Blogging! 
 
-Welcome to **Logverse**, the ultimate blogging platform where your words matter! Share your thoughts, explore inspiring ideas, and connect with a vibrant community. With **Logverse**, you can:  
-
+Welcome to **Logverse** -
 ✨ **Post captivating blogs**  
 💬 **Receive real-time notifications** for likes and comments  
 🏷️ **Add tags to your blogs** for better discoverability  
